@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/Dados-Publicos.svg)](http://hits.dwyl.com/learning-crawlers/Dados-Publicos)
+
 # Dados Públicos
 Mapeamento de Dados Públicos
 
